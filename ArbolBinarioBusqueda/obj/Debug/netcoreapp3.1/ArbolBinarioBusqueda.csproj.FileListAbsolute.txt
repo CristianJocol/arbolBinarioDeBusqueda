@@ -1,0 +1,13 @@
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.exe
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.deps.json
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.runtimeconfig.json
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.runtimeconfig.dev.json
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.dll
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\netcoreapp3.1\ArbolBinarioBusqueda.pdb
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.csprojAssemblyReference.cache
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.AssemblyInfoInputs.cache
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.AssemblyInfo.cs
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.dll
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.pdb
+C:\Users\GOFALBET 3\Documents\ProyectoVS\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\netcoreapp3.1\ArbolBinarioBusqueda.genruntimeconfig.cache
